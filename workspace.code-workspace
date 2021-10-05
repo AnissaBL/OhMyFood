@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../Maquettes Ohmyfood 3/images"
+		},
+		{
+			"name": "P3_OhmyFood",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "P3_OhmyFood"
+	}
+}
